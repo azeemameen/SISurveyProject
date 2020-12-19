@@ -1,4 +1,4 @@
-# SI_SurveyProject
+# CS5651 - Statistical Inference - Survey Project Report
 
 The following files are included in this repository
 
